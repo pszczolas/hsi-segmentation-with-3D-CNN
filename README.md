@@ -1,1 +1,2 @@
 # hsi-segmentation-with-3D-CNN
+This repo contains paper that i worte (in polish) about segmentation of hypersectral images using 3D convolution neural networks. Datasets and code used to produce results are also included.
